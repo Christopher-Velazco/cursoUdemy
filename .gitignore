@@ -1,3 +1,4 @@
 *.txt
 book, text and installer/
 .gitignore
+Wordpress/
